@@ -1,0 +1,1 @@
+This is a very simple app build by reac and redux, read this can help you understand react sys if you are beginner for react.And you can learn about react-saga.
