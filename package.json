@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joelhooks/egghead-react-redux-image-gallery.git"
+    "url": "https://github.com/tolunFdancer/imageGallery.git"
   },
-  "author": "Joel Hooks <joelhooks@gmail.com>",
+  "author": "tolun",
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "6.3.14",
