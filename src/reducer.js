@@ -7,7 +7,7 @@ const defaultState = {
         "https://farm2.staticflickr.com/1450/25888412766_44745cbca3.jpg"
     ],*/
     images: [],
-    selectedImage: "https://farm2.staticflickr.com/1553/25266806624_fdd55cecbc.jpg"
+    //selectedImage: "https://farm2.staticflickr.com/1553/25266806624_fdd55cecbc.jpg"
 }
 
 export default function images(state=defaultState, action) {
